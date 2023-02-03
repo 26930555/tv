@@ -4,7 +4,7 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001331/index.m3
 #EXTINF:-1 type="stream" channelId="-1" name="CCTV2" group-title="央视" logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png",CCTV-2财经-高清
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001332/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 type="stream" channelId="-1" name="CCTV13" group-title="央视" logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png",CCTV-13新闻-高清
-http://[2409:8087:6a01:1020::c]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225748/1/index.m3u8?fmt=ts2hls
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225638/index.m3u8
 #EXTINF:-1 type="stream" channelId="-1" name="CCTV3" group-title="央视" logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png",CCTV-3综艺-高清
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001598/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 type="stream" channelId="894" name="CCTV4" group-title="央视" logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png",CCTV-4中文国际-高清
